@@ -1,0 +1,16 @@
+{
+  "name": "prismagram",
+  "version": "1.0.0",
+  "description": "Instagram cloning with Express and Prisma, React, React Native",
+  "main": "index.js",
+  "repository": "https://github.com/minuchi/nomad02",
+  "author": "minu <kimkim2@xdn.kr>",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.17.4"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "nodemon": "^1.18.11"
+  }
+}
