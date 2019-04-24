@@ -59,3 +59,6 @@ typings/
 
 # next.js build output
 .next
+
+# Visual Studio Code의 library 생기는 .history
+.history/
